@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579901796976",
+    "project_id": "text-rec-app-81651",
+    "storage_bucket": "text-rec-app-81651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579901796976:android:2d93100285a791a6fcbab5",
+        "android_client_info": {
+          "package_name": "com.example.mytextrecapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579901796976-kkklodia6he4nflo5nerimk11r4l7h9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJCKStIe8sGBku2l5E_Cvmab-__LznsmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579901796976-kkklodia6he4nflo5nerimk11r4l7h9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
